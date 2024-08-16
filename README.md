@@ -18,3 +18,39 @@ Should Return True For:
 - race car
 - 12321
 - @# 1221 #@
+
+## Day 3 : Git Challenge 
+ - Go to https://github.com/abhi-ragh/Git-Challenge
+- Fork the repo
+
+- Create a New Directory in your System
+- Initialize To the forked Repo
+- Create a New branch <Your Name>
+- Create a New File: day3_challenge_<Your Name>.txt
+- Add some text on the file
+- Commit changes 
+- Push the changes
+
+- Go to Your Forked Repository on GitHub
+- Create a Pull Request
+
+- You should see a prompt to create a pull request for the branch you just pushed.
+- Click on "Compare & pull request."
+- Add a description of the changes you made and submit the pull request
+
+## Day 4 : Simple To-Do App
+
+Create a simple command-line To-Do list application in Python.
+
+Requirements:
+1. The program should allow the user to:
+- Add a new task.
+- View all tasks.
+- Mark a task as complete.
+- Remove a task.
+   
+2. Store the tasks in a list where each task is a dictionary containing:
+- Task description
+- Completion status (e.g., True for completed, False for incomplete)
+
+3. The program should continue running until the user decides to exit.

@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body{
+  font-family: "Inter", sans-serif;
+}
+
+nav{
+  background-color: #F55A5A;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+
+img{
+  width: 128px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+section{
+  margin: 20px;
+}
+
+.nav--heading{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  
+  color: #FFFFFF;
+  
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.card{
+  display: flex;
+  align-items: center;
+}
+
+.card--location{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+
+  margin-right: 10px;
+
+  color: #2B283A;
+}
+
+a{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  text-decoration-line: underline;
+
+  color: #918E9B;
+}
+
+.card--title{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #2B283A;
+}
+
+.card--dates{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+
+  color: #2B283A;
+}
+
+.card--desc{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+
+color: #2B283A;
+}
+
+.location--section{
+  display: flex;
+  align-items: center;
+}

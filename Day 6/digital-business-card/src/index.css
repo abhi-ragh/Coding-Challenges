@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+body{
+    font-family: inter,sans-serif;
+}
+.App {
+    background-color: #1A1B21;
+    width: 317px;
+    margin: 150px auto;
+    border: 0px;
+}
+
+.Info {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.ProfilePic {
+    width: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+h1{
+    font-weight: 700;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+h4{
+    font-weight: 400;
+    margin: 0;
+}
+
+h6{
+    font-weight: 400;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Buttons{
+    display: flex;
+}
+
+#Email-Button{
+    background-color: #FFFFFF;
+    width: 115px;
+    height: 34px;
+    margin: 10px;
+    border: 0px;
+    border-radius: 6px;
+}
+
+#Linkedin-Button{
+    background-color: #5093E2;
+    width: 115px;
+    height: 34px;
+    margin: 10px;
+    border: 0px;
+    border-radius: 6px;
+}
+
+.About{
+    height: 101px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+.Interests{
+    height: 101px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+h2{
+    padding-left:20px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+p{
+    margin:0px;
+    font-size: 10.24px;
+    font-weight: 400;
+    line-height: 15.36px;
+    text-align: left;
+    padding-left:20px;
+
+}
+
+.Footer{
+    display: flex;
+    justify-content: center;
+    background-color: #161619;
+    border: 0px;
+    border-radius: 0px 0px 6px 6px;
+}
+
+button{
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}

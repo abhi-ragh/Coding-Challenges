@@ -54,3 +54,13 @@ Requirements:
 - Completion status (e.g., True for completed, False for incomplete)
 
 3. The program should continue running until the user decides to exit.
+
+## Day 5 : Travel Journal 
+
+Create a simple Travel Journal Website
+
+## Day 6 : Digital Business Card
+
+Create a simple digital business card website
+
+

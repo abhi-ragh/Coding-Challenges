@@ -63,4 +63,6 @@ Create a simple Travel Journal Website
 
 Create a simple digital business card website
 
+## Day 7 : One Line Calculator
 
+Create a simple calculator in python using just one line of code

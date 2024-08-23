@@ -66,3 +66,13 @@ Create a simple digital business card website
 ## Day 7 : One Line Calculator
 
 Create a simple calculator in python using just one line of code
+
+## Day 8 : Prime Checker
+
+Write a Python program that checks if a given number is prime or not. A prime number is a number greater than 1 that has no divisors other than 1 and itself.
+
+Requirements:
+
+The program should take an integer as input.
+Determine if the number is prime.
+Print an appropriate message (e.g., "The number is prime" or "The number is not prime").

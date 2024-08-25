@@ -76,3 +76,20 @@ Requirements:
 The program should take an integer as input.
 Determine if the number is prime.
 Print an appropriate message (e.g., "The number is prime" or "The number is not prime").
+
+## Day 9: Simple Password Generator
+
+Task:
+Write a Python program that generates a random password based on user-defined criteria. The program should:
+1. Ask the user for the desired length of the password.
+2. Allow the user to specify if they want to include:
+   - Lowercase letters
+   - Uppercase letters
+   - Digits
+   - Special characters (e.g., !@#$%^&*())
+3. Generate a random password based on the selected criteria.
+
+Requirements:
+- Ensure that the password contains at least one character from each selected category.
+- The password should be randomly generated each time.
+

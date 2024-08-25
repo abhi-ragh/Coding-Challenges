@@ -93,3 +93,12 @@ Requirements:
 - Ensure that the password contains at least one character from each selected category.
 - The password should be randomly generated each time.
 
+## Day 10: Number Guessing Game
+
+Task: Create a number guessing game where the program randomly selects a number between 1 and 100, and the user has to guess it.
+
+Requirements:
+
+The program should give feedback whether the guess is too high, too low, or correct.
+The user should be able to keep guessing until they get the correct number.
+After the correct guess, show the number of attempts it took the user to guess the number.

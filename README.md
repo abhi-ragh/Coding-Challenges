@@ -116,3 +116,13 @@ Determine Winner: Compare the user’s choice with the computer’s choice and d
 ## Day 12: Simple Portfolio Website
 
 Create a simple portfolio website
+
+## Day 13: Quiz Game
+
+Create a simple text-based quiz game that asks the user a series of questions and provides feedback on their answers. The game should keep track of the score and display it at the end.
+
+Objectives:
+Present a series of questions to the user.
+Allow the user to input their answers.
+Keep track of the score based on correct answers.
+Display the final score after all questions have been answered.

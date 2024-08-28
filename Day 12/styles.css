@@ -1,0 +1,39 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#name{
+    margin-right: auto;
+    margin-left: 60px;
+    font-size: 50px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 10px;
+    font-size: 20px;
+    margin-right: 40px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 300px;
+    align-items: center;
+}
+
+.main-left{
+    margin-right: 200px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h5{
+    font-size: 20px;
+}

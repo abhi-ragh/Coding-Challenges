@@ -113,3 +113,6 @@ Choices: Allow the user to choose Rock, Paper, or Scissors.
 Computer Move: Randomly generate a move for the computer.
 Determine Winner: Compare the user’s choice with the computer’s choice and determine the winner.
 
+## Day 12: Simple Portfolio Website
+
+Create a simple portfolio website

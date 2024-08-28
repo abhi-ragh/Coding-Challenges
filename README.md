@@ -102,3 +102,14 @@ Requirements:
 The program should give feedback whether the guess is too high, too low, or correct.
 The user should be able to keep guessing until they get the correct number.
 After the correct guess, show the number of attempts it took the user to guess the number.
+
+## Day 11  Rock-Paper-Scissors Game
+
+Task: Implement a command-line Rock-Paper-Scissors game where the user plays against the computer.
+
+Requirements:
+
+Choices: Allow the user to choose Rock, Paper, or Scissors.
+Computer Move: Randomly generate a move for the computer.
+Determine Winner: Compare the user’s choice with the computer’s choice and determine the winner.
+

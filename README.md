@@ -127,7 +127,7 @@ Allow the user to input their answers.
 Keep track of the score based on correct answers.
 Display the final score after all questions have been answered.
 
-Day 14: Mini Markdown Parser
+## Day 14: Mini Markdown Parser
 
 Task: Create a simple Markdown parser that converts a few basic Markdown elements into HTML.
 

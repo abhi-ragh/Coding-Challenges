@@ -133,7 +133,7 @@ Task: Create a simple Markdown parser that converts a few basic Markdown element
 
 Requirements:
 
-    Headings: Convert \# Heading to <h1>Heading</h1> and \## Subheading to <h2>Subheading</h2>.
-    Bold Text: Convert \**bold** to <b>bold</b>.
-    Italic Text: Convert \*italic* to <i>italic</i>.
+    Headings: Convert # Heading to <h1>Heading</h1> and \## Subheading to <h2>Subheading</h2>.
+    Bold Text: Convert **bold** to <b>bold</b>.
+    Italic Text: Convert *italic* to <i>italic</i>.
     Lists: Convert lines starting with - into unordered list items <li>.

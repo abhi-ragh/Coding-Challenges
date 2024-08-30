@@ -126,3 +126,14 @@ Present a series of questions to the user.
 Allow the user to input their answers.
 Keep track of the score based on correct answers.
 Display the final score after all questions have been answered.
+
+Day 14: Mini Markdown Parser
+
+Task: Create a simple Markdown parser that converts a few basic Markdown elements into HTML.
+
+Requirements:
+
+    Headings: Convert \# Heading to <h1>Heading</h1> and \## Subheading to <h2>Subheading</h2>.
+    Bold Text: Convert \**bold** to <b>bold</b>.
+    Italic Text: Convert \*italic* to <i>italic</i>.
+    Lists: Convert lines starting with - into unordered list items <li>.

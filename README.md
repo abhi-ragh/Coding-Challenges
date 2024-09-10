@@ -147,3 +147,22 @@ Requirements:
     - The function should take two arguments: an array of integers and a target integer.
     - Return True if any two distinct elements in the array sum to the target.
     - Return False if no such pair exists.
+
+## Day 16: Reverse Words in a String
+
+Task: Write a function that takes a string as input and returns the string with the words reversed.
+
+Requirements:
+
+- The function should reverse the order of words in the input string.
+- Words are separated by spaces, and there should be no leading or trailing spaces in the output.
+
+Example:
+# Example 1
+Input: "Hello World"
+Output: "World Hello"
+
+# Example 2
+Input: "Python is fun"
+Output: "fun is Python"
+

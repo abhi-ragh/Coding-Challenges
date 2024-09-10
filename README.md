@@ -158,11 +158,27 @@ Requirements:
 - Words are separated by spaces, and there should be no leading or trailing spaces in the output.
 
 Example:
-# Example 1
+\# Example 1
 Input: "Hello World"
 Output: "World Hello"
 
-# Example 2
+\# Example 2
 Input: "Python is fun"
 Output: "fun is Python"
 
+## Day 17: Move Zeros to the End
+
+Task: Write a function that takes an array of integers and moves all the zeros to the end while maintaining the relative order of the other elements.
+
+Requirements:
+
+    The function should modify the input array in place.
+    All non-zero elements should maintain their original relative order.
+
+\# Example 1
+Input: [0, 1, 0, 3, 12]
+Output: [1, 3, 12, 0, 0]
+
+\# Example 2
+Input: [0, 0, 1]
+Output: [1, 0, 0]

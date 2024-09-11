@@ -157,7 +157,6 @@ Requirements:
 - The function should reverse the order of words in the input string.
 - Words are separated by spaces, and there should be no leading or trailing spaces in the output.
 
-Example:
 \# Example 1
 Input: "Hello World"
 Output: "World Hello"
@@ -182,3 +181,27 @@ Output: [1, 3, 12, 0, 0]
 \# Example 2
 Input: [0, 0, 1]
 Output: [1, 0, 0]
+
+##Day 18: Valid Parentheses
+
+Task: Write a function that checks if a string of parentheses is valid. A string is considered valid if:
+
+    Every opening parenthesis ( has a corresponding closing parenthesis ).
+    Parentheses are correctly nested.
+
+Requirements:
+
+    The input string can contain the characters (, ), {, }, [ and ].
+    The function should return True if the input string is valid, and False otherwise.
+
+\# Example 1
+Input: "()"
+Output: True
+
+\# Example 2
+Input: "([)]"
+Output: False
+
+\# Example 3
+Input: "{[]}"
+Output: True

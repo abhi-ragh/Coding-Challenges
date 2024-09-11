@@ -182,7 +182,7 @@ Output: [1, 3, 12, 0, 0]
 Input: [0, 0, 1]
 Output: [1, 0, 0]
 
-##Day 18: Valid Parentheses
+## Day 18: Valid Parentheses
 
 Task: Write a function that checks if a string of parentheses is valid. A string is considered valid if:
 

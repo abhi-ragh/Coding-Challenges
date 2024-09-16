@@ -227,3 +227,22 @@ Output: [1, 2, 3, 4, 5, 6]
 Bonus:
 
     Implement the merge function without using Python's built-in sort() or sorted() functions.
+
+## Day 20: Remove Duplicates from Sorted Array
+
+Task: Write a function that removes duplicates from a sorted array in place and returns the length of the array after duplicates are removed. The function should not allocate extra space for another array.
+
+Requirements:
+
+    The input array is sorted in non-decreasing order.
+    Remove duplicates in-place and return the new length of the array (elements after this length are not important).
+
+\# Example 1
+Input: [1, 1, 2]
+Output: 2
+Explanation: The modified array is [1, 2].
+
+\# Example 2
+Input: [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
+Output: 5
+Explanation: The modified array is [0, 1, 2, 3, 4].

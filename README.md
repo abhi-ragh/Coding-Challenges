@@ -205,3 +205,25 @@ Output: False
 \# Example 3
 Input: "{[]}"
 Output: True
+
+## Day 19: Merge Sorted Arrays
+
+Task: Write a function that merges two sorted arrays into one sorted array.
+
+Requirements:
+
+    The function should take two sorted arrays as input.
+    Merge the arrays into a single sorted array.
+    Return the merged sorted array.
+
+\# Example 1
+Input: [1, 3, 5], [2, 4, 6]
+Output: [1, 2, 3, 4, 5, 6]
+
+\# Example 2
+Input: [1, 2, 3], [4, 5, 6]
+Output: [1, 2, 3, 4, 5, 6]
+
+Bonus:
+
+    Implement the merge function without using Python's built-in sort() or sorted() functions.

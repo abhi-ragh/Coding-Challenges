@@ -246,3 +246,11 @@ Explanation: The modified array is [1, 2].
 Input: [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
 Output: 5
 Explanation: The modified array is [0, 1, 2, 3, 4].
+
+## Weekly Challenge : Build a Weather Forecasting App 
+
+Task: Create a weather forecasting app where users can:
+
+    Get current weather information.
+    Retrieve a 5-day forecast.
+    Display the information in a user-friendly format.
